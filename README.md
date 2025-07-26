@@ -89,7 +89,7 @@ The aim is to elevate backend efficiency while creating a seamless experience fo
 
 ---
 
-## 👩‍💻 Author
+## 👨🏻‍💻 Author
 
 <div align="center">
 <a href="https://www.linkedin.com/in/rajadigvijaysingh" target="_blank">
